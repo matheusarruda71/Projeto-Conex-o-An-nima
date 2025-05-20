@@ -1,0 +1,432 @@
+# Webalizer V2.23-08 Incremental Data - 04/14/2025 05:39:46
+2025 4 14 5 39 46
+238 67 44 39 10 38 3607425 134 41 0
+4 4 113 11 14
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+178 65 3294015 11 107 14
+23 0 67615 14 7 7
+31 2 213139 20 16 16
+6 0 32656 4 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+5 0 25537 3
+2 0 8181 1
+3 0 23865 3
+0 0 0 0
+5 0 16972 2
+0 0 0 0
+18 1 119225 10
+5 1 52851 1
+2 0 8791 1
+2 0 8791 1
+2 0 1672 0
+48 9 22191 31
+12 3 24775 5
+5 2 19312 4
+113 51 3241975 69
+3 0 9017 1
+6 0 12135 1
+1 0 836 0
+0 0 0 0
+0 0 0 0
+6 0 11299 1
+0 0 0 0
+0 0 0 0
+0
+0
+0
+67
+0
+0
+0
+0
+0
+0
+0
+5
+5
+0
+5
+0
+0
+0
+0
+0
+44
+51
+19
+40
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+# -urls- 
+/admin/public/css/filament/support/support.css
+0 1 0 899 0 0
+/public/img/logo.png
+0 1 0 34614 0 0
+/public/css/filament/support/support.css
+0 1 0 899 0 0
+/admin/public/img/logo.png
+0 1 0 34614 0 0
+/admin/public/js/filament/support/support.js
+0 1 0 59503 0 0
+/form/styles/
+0 1 0 154 0 0
+/admin/public/login
+0 8 0 105192 0 0
+/public/css/filament/forms/forms.css
+0 1 0 23409 0 0
+/cgi-sys/images/logo-hostgator.svg
+0 1 0 14640 0 0
+/admin/public/css/filament/forms/forms.css
+0 1 0 23409 0 0
+/public/js/filament/filament/echo.js
+0 1 0 32099 0 0
+/public/js/filament/notifications/notifications.js
+0 1 0 2710 0 0
+/admin/public/css/filament/filament/app.css
+0 1 0 21265 0 0
+/admin/public/js/filament/filament/echo.js
+0 1 0 32099 0 0
+/cgi-sys/images/favicons/favicon.ico
+0 1 0 4286 0 0
+/cgi-sys/fonts/GalanoGrotesqueAlt-Bold.woff2
+0 1 113 27612 0 0
+/form/
+0 2 8319045105058736492 1585 0 0
+/form/feedback-status.php
+0 1 24231616 685 0 0
+/public/login
+0 6 0 78809 0 0
+/cgi-sys/css/fonts.css
+0 1 0 365 0 0
+/public/js/filament/filament/app.js
+0 1 0 3528 0 0
+/cgi-sys/css/bootstrap.min.css
+0 1 0 3716 0 0
+/public/js/filament/support/support.js
+0 1 0 59503 0 0
+/cgi-sys/fonts/GalanoGrotesqueAlt-Light.woff2
+0 1 0 30888 0 0
+/admin/public/img/logodark.png
+0 1 0 30785 0 0
+/admin/public/js/filament/notifications/notifications.js
+0 1 0 2710 0 0
+/public/img/favicon.png
+0 1 0 35006 0 0
+/admin/public/js/filament/filament/app.js
+0 1 0 3528 0 0
+/
+0 14 0 17962 40 7
+/form/script/
+0 1 0 142 0 0
+/cgi-sys/css/custom_404.css
+0 1 0 352 0 0
+/public/img/logodark.png
+0 1 0 30785 0 0
+/cgi-sys/images/illustration-404.svg
+0 1 0 5824 0 0
+/admin/public/img/favicon.png
+0 1 0 35006 0 0
+/cgi-sys/fonts/GalanoGrotesqueAlt-Medium.woff2
+0 1 0 27368 0 0
+/public/css/filament/filament/app.css
+0 1 0 21265 0 0
+/form/assets/favicon.png
+0 1 0 35006 0 0
+/form/assets/logo.png
+0 1 0 34614 0 0
+/cgi-sys/js/jquery-1.11.2.min.js
+0 8 0 169552 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-18-119-12-12.us-east-2.compute.amazonaws.com
+0 2 0 1672 0 0
+-
+ec2-65-0-67-124.ap-south-1.compute.amazonaws.com
+0 1 0 7955 1 1744506332
+/
+ec2-44-220-181-56.compute-1.amazonaws.com
+0 1 0 7955 1 1744529207
+/
+scanner-05.ch1.censys-scanner.com
+0 1 0 7955 1 1744422422
+/
+92.255.57.61
+0 4 0 16746 2 1744609185
+/
+92.255.57.55
+0 4 0 16746 2 1744609184
+/
+149.57.180.194
+0 1 0 7955 1 1744514407
+/
+campain.club
+0 1 0 7955 1 1744530236
+/
+200.229.244.92
+0 107 51 3167378 2 1744386873
+/public/login
+scanner-207.ch1.censys-scanner.com
+0 2 0 1672 0 0
+-
+23.27.145.36
+0 1 1 1283 1 1744382632
+/
+host.sindad.net
+0 1 0 226 1 1744529203
+/
+c3ee778768.scan.leakix.org
+0 2 2 2566 1 1744375849
+/
+ec2-54-93-199-186.eu-central-1.compute.amazonaws.com
+0 1 0 226 0 0
+-
+unn-fra.cdn77.com
+0 4 1 52015 1 1744385905
+/
+45.148.10.172
+0 1 0 226 0 0
+-
+proctor.probe.onyphe.net
+0 1 0 7955 1 1744474345
+/
+ns1010346.ip-135-148-100.us
+0 2 0 15910 1 1744384268
+/
+unn-178-249-214-136.datapacket.com
+0 4 1 52015 1 1744529092
+/
+ec2-34-248-137-227.eu-west-1.compute.amazonaws.com
+0 4 3 4685 1 1744378040
+/
+196.251.88.108
+0 1 0 836 0 0
+-
+52.161.32.34.bc.googleusercontent.com
+0 1 0 7955 1 1744384593
+/
+c1fe727412.scan.leakix.org
+0 21 2 7470 1 1744375857
+/
+45.148.10.98
+0 4 0 3344 0 0
+-
+149.57.180.112
+0 1 0 7955 1 1744468539
+/
+bessie.probe.onyphe.net
+0 1 0 836 0 0
+-
+85.239.37.161
+0 1 0 836 0 0
+-
+ec2-54-224-180-15.compute-1.amazonaws.com
+0 1 0 836 0 0
+-
+164.92.127.221
+0 2 0 8791 1 1744450880
+/
+vmi2542845.contaboserver.net
+0 1 0 226 0 0
+-
+ec2-54-209-165-177.compute-1.amazonaws.com
+0 1 0 7955 1 1744598690
+/
+159.65.158.238
+0 2 0 8791 1 1744453854
+/
+23.27.145.138
+0 1 0 7955 1 1744602783
+/
+137.87.84.91.bbcs.as8758.net
+0 21 1 44807 5 1744549683
+/
+83.171.226.166
+0 1 0 7955 1 1744529259
+/
+ec2-54-66-55-193.ap-southeast-2.compute.amazonaws.com
+0 1 0 7955 1 1744530238
+/
+d559d155e9.scan.leakix.org
+0 2 2 2566 1 1744375850
+/
+rnd.group-ib.com
+0 1 0 7955 1 1744529356
+/
+ec2-44-222-20-176.compute-1.amazonaws.com
+0 1 0 7955 1 1744506894
+/
+103.75.116.245
+0 1 0 7955 1 1744530237
+/
+bf57ea116e.scan.leakix.org
+0 21 2 7470 1 1744375856
+/
+23.27.145.26
+0 1 0 7955 1 1744426945
+/
+52.247.239.25
+0 4 1 52015 1 1744532968
+/
+23.27.145.10
+0 1 0 7955 1 1744555155
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+92.255.57.61
+0 3 0 8791 1 1744609185
+/
+92.255.57.55
+0 1 0 7955 1 1744609184
+/
+ec2-54-209-165-177.compute-1.amazonaws.com
+0 1 0 7955 1 1744598690
+/
+23.27.145.138
+0 1 0 7955 1 1744602783
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://matheusarruda1744386454244.2390391.meusitehostgator.com.br/form/feedback-status.php
+0 1
+https://matheusarruda1744386454244.2390391.meusitehostgator.com.br/cgi-sys/css/fonts.css
+0 3
+https://matheusarruda1744386454244.2390391.meusitehostgator.com.br/forms
+0 6
+https://matheusarruda1744386454244.2390391.meusitehostgator.com.br/form/
+0 6
+https://matheusarruda1744386454244.2390391.meusitehostgator.com.br/public/login
+0 21
+https://matheusarruda1744386454244.2390391.meusitehostgator.com.br/admin/public/login
+0 21
+- (Direct Request)
+0 158
+https://matheusarruda1744386454244.2390391.meusitehostgator.com.br/
+0 17
+https://br612.hostgator.com.br:2083/
+0 2
+https://matheusarruda1744386454244.2390391.meusitehostgator.com.br/admin/
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+0 91
+Mozilla/4.0 (compatible; MSIE 5.0; Series80/2.0 Nokia9500/4.51 Profile/MIDP-2.0 Configuration/CLDC-1.1)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us; Silk/1.0.13.81_10003810) AppleWebKit/533.16 (KHTML, like Gecko) Vers
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 3
+Mozilla/5.0 (l9scan/2.0.030323e2534313e24363e2237313; +https://leakix.net)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.2
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+0 16
+Mozilla/5.0 (X11; U; Linux x86_64; en-AU) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.35 Puffin/3.91
+0 1
+Go-http-client/1.1
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
+0 2
+Mozilla/5.0 (l9scan/2.0.6353e22343e28313e2430313; +https://leakix.net)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+0 8
+Go-http-client/2.0
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+0 1
+Scrapy/2.12.0 (+https://scrapy.org)
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0
+0 6
+python-requests/2.32.3
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+0 8
+Mozilla/5.0 (Linux; Android 8.1.0; SM-G610M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA916210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2889.98 Mobil
+0 1
+Mozilla/5.0 (Kubuntu; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13F69
+0 1
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA024354) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.1746.98 Mobil
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 5.0.1; GT-I9500) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile S
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/
+0 21
+Mozilla/5.0 (compatible)
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

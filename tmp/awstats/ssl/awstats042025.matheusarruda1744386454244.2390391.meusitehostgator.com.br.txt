@@ -1,0 +1,307 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202504 will be lost/reset.
+# Last config file used to build this data file was /home2/math6644/tmp/awstats/ssl/awstats.matheusarruda1744386454244.2390391.meusitehostgator.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2094                
+POS_TIME 2772                
+POS_VISITOR 6766                
+POS_DAY 7311                
+POS_DOMAIN 3342                
+POS_LOGIN 3629                
+POS_ROBOT 3784                
+POS_WORMS 3954                
+POS_EMAILSENDER 4085                
+POS_EMAILRECEIVER 4228                
+POS_SESSION 7446                
+POS_FILESIZE 7965                
+POS_SIDER 7602                
+POS_FILETYPES 4363                
+POS_DOWNLOADS 4566                
+POS_OS 4614                
+POS_BROWSER 4745                
+POS_SCREENSIZE 5027                
+POS_UNKNOWNREFERER 5101                
+POS_UNKNOWNREFERERBROWSER 5188                
+POS_ORIGIN 5270                
+POS_SEREFERRALS 5403                
+POS_PAGEREFS 5547                
+POS_SEARCHWORDS 5735                
+POS_KEYWORDS 5887                
+POS_MISC 2436                
+POS_ERRORS 5946                
+POS_CLUSTER 3485                
+POS_SIDER_404 6110                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250414053946 13 3309 21987477399601
+FirstTime 20250411125048
+LastTime 20250411155326
+LastUpdate 20250414094537 13 0 13 0 0
+TotalVisits 9                   
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 1 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 3 5 24701
+2 0 0 0 2 2 8181
+3 0 0 0 3 3 23865
+4 0 0 0 0 0 0
+5 0 1 0 3 4 16972
+6 0 0 0 0 0 0
+7 0 2 42388 12 16 76837
+8 0 1 42388 2 4 10463
+9 0 0 0 1 2 8791
+10 0 0 0 1 2 8791
+11 0 0 0 2 2 1672
+12 5 5 6415 43 43 15776
+13 3 4 3849 2 8 20090
+14 2 2 2566 2 3 16746
+15 20 51 939364 52 62 2301775
+16 0 0 0 2 3 9017
+17 0 0 0 2 6 12135
+18 0 0 0 1 1 836
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 1 0 1 5 11299
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+br 21 51 898259
+us 6 7 50086
+ip 2 3 44954
+gb 1 3 1283
+ru 0 2 0
+cz 0 1 42388
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 4 5132 20250411125047 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 8 270430 0 0
+css 10 95733 0 0
+php 1 685 0 0
+html 12 14415 0 0
+js 17 365374 0 0
+svg 2 20464 0 0
+woff2 3 85868 0 0
+Unknown 14 184001 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win10 52 21
+macosx9 1 1
+linux 5 3
+androidmarshmallow 7 5
+win7 2 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 11
+chrome45.0.2454.85 2 0
+firefox120.0 1 1
+chrome133.0.0.0 1 0
+chrome52.0.1746.98 1 1
+chrome135.0.0.0 53 21
+firefox83.0 1 1
+chrome52.0.2889.98 1 1
+chrome130.0.0.0 3 1
+chrome33.0.1750.152 1 1
+chrome52.0.2743.98 2 2
+chrome132.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 27
+From1 0 0
+From2 0 0
+From3 1 1
+From4 4 39
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://br612.hostgator.com.br:2083 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 2 240198
+403 44 350020
+302 5 988
+301 5 1413
+404 48 40128
+405 19 1916742
+406 40 9040
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 13
+/js/lkk_ch.js 4 -
+/src/.git/config 1 -
+/robots.txt 1 -
+/cgi-sys/images/logo-403-page.png 9 -
+/admin/public/ 1 -
+/livewire/livewire.js 2 https://matheusarruda1744386454244.2390391.meusitehostgator.com.br/public/login
+/admin/public/login 2 -
+/cgi-sys/images/favicon.png 12 -
+/_all_dbs 2 -
+/js/twint_ch.js 5 -
+/admin 1 -
+/forms 1 -
+/.git/config 7 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+200.229.244.92 21 51 898259 20250411155326
+34.248.137.227 3 3 3849 20250411132720
+209.38.248.17 1 1 1283 20250411125048
+23.27.145.36 1 1 1283 20250411144352
+2a03:b0c0:3:d0::402:d001 1 1 1283 20250411125049
+91.84.87.137 1 3 1283 20250411142425
+207.154.197.113 1 1 1283 20250411125049
+2a03:b0c0:3:d0::e89:e001 1 1 1283 20250411125050
+2a02:6ea0:c71b:0:1011:10d9:e740:c5cc 0 1 42388 
+52.247.239.25 0 1 42388 
+92.255.57.55 0 1 0 
+92.255.57.61 0 1 0 
+178.249.214.136 0 1 42388 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20250411 30 62 952194 9
+20250412 0 1 0 0
+20250413 0 3 84776 0
+20250414 0 1 0 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30mn-1h 1
+0s-30s 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 10 12830 8 8
+/admin/public/login 8 105192 0 0
+/public/login 6 78809 0 1
+/form/ 2 1585 1 0
+/form/feedback-status.php 1 685 0 0
+/cgi-sys/fonts/GalanoGrotesqueAlt-Medium.woff2 1 27368 0 0
+/cgi-sys/fonts/GalanoGrotesqueAlt-Light.woff2 1 30888 0 0
+/cgi-sys/fonts/GalanoGrotesqueAlt-Bold.woff2 1 27612 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+2K-5K 6
+0-44 6
+1K-2K 15
+500-1K 54
+100-500 53
+5K+ 104
+END_FILESIZE
